@@ -1,4 +1,4 @@
-19.7.2023
+19th of July, 2023
 
 - npx create-next-app@latest
 - npm i bootstrap react-bootstrap
